@@ -32,6 +32,9 @@ This project analyzes **OTT (Over-the-Top) streaming platform data**, specifical
    ```
 2. Open and run `OTT Project Python code.ipynb` in Jupyter Notebook.
 
+#### CONTENTS 
+
+
 ### 2️⃣ Power BI Dashboard
 1. Open `OTT Project BI Dashboard.pbix` in Power BI.
 2. Explore the interactive dashboard.
