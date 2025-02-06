@@ -9,6 +9,7 @@ This repository showcases my end-to-end data analytics projects, highlighting my
    - [Netflix EDA + Dashboard](#netflix-eda--dashboard)
    - [NYC TLC Analysis](#nyc-tlc-analysis)
    - [Uber Data Analysis](#uber-data-analysis)
+   - [Duolingo User Engagement](#link)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [How to Use](#how-to-use)
 5. [Contact](#contact)
