@@ -45,12 +45,15 @@ HOME PAGE :
 In the home page you could see the overview of the Netflix data that we have analysed. We also have slicers and interactive buttons where we can navigate to different pages and filters to show more on the TV SHOWS and MOVIES.
 
 Here are the slicers:
-![image](https://github.com/user-attachments/assets/5ad26099-1981-4ce7-9a32-8d84c1efa3ab)  ![image](https://github.com/user-attachments/assets/11367403-85a8-422e-a8b1-a79dc45e5d77)  ![image](https://github.com/user-attachments/assets/a05a8364-5ed6-4a70-a7dd-6fe3a6724565)  ![image](https://github.com/user-attachments/assets/9979ec98-ae11-4709-9a02-1c54a6faf914)
+
+![image](https://github.com/user-attachments/assets/5ad26099-1981-4ce7-9a32-8d84c1efa3ab)  &nbsp; &nbsp;      ![image](https://github.com/user-attachments/assets/11367403-85a8-422e-a8b1-a79dc45e5d77)    &nbsp; &nbsp;   ![image](https://github.com/user-attachments/assets/a05a8364-5ed6-4a70-a7dd-6fe3a6724565)    &nbsp; &nbsp;   ![image](https://github.com/user-attachments/assets/9979ec98-ae11-4709-9a02-1c54a6faf914)
 
 TV SHOWS Dashboard:
+
 ![image](https://github.com/user-attachments/assets/680fdd21-9a8c-499e-8efd-b7363461d301)
 
 MOVIES Dashboard:
+
 ![image](https://github.com/user-attachments/assets/69d23104-a5d2-4116-a36d-fe17f2d7b1e7)
 
 
@@ -65,9 +68,8 @@ The Power BI dashboard provides key insights, including:
 - **Popular genres**
 - **Content trends over time**
 - **Top contributing countries**
+- **Insights on Top Actors and support Actors**
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
 
 ## 🤝 Contributions
 Feel free to fork this repository and submit pull requests for improvements!
