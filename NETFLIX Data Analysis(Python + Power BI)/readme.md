@@ -40,6 +40,7 @@ The datasets that are required i.e. the original dataset and the cleaned dataset
 2. Explore the interactive dashboard.
 
 #### DASHBOARD CONTENTS:
+![Power BI Dashboard](Dashboard Screenshots/homepage.png)
 
 
 ## 📌 Insights & Visuals
