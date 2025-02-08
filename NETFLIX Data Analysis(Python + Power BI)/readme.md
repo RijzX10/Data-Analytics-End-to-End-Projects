@@ -1,12 +1,14 @@
 # OTT Data Analysis & Dashboard
 
 ## 📌 Project Overview
-This project analyzes **OTT (Over-the-Top) streaming platform data**, specifically from Netflix, using **Python for data cleaning & analysis** and **Power BI for visualization**. The goal is to extract insights into streaming trends, content availability, and genre distributions to enhance decision-making.
+This project analyzes **OTT (Over-the-Top) streaming platform data**, specifically from Netflix, using **Python for data cleaning & analysis** and **Power BI for data visualization**. 
+The goal is to extract insights into streaming trends, content availability, and genre distributions in TV Shows and Movies that has been available in Netflix over the years. 
+
+The datasets that are required i.e. the original dataset and the cleaned dataset which will be used further in Power BI are available in the **Dataset** Folder.
 
 ## 📊 Features
 - **Python Data Cleaning & Processing**: Uses `pandas` and `numpy` to clean and prepare Netflix dataset.
 - **Power BI Dashboard**: Interactive dashboard visualizing content distribution, trends, and insights.
-- **Exploratory Data Analysis (EDA)**: Statistical insights into the dataset.
 - **Genre & Category Analysis**: Breakdown of content by type, genre, and country.
 - **Time-Based Insights**: Trend analysis of content releases over the years.
 
@@ -32,12 +34,13 @@ This project analyzes **OTT (Over-the-Top) streaming platform data**, specifical
    ```
 2. Open and run `OTT Project Python code.ipynb` in Jupyter Notebook.
 
-#### CONTENTS 
-
 
 ### 2️⃣ Power BI Dashboard
 1. Open `OTT Project BI Dashboard.pbix` in Power BI.
 2. Explore the interactive dashboard.
+
+#### DASHBOARD CONTENTS:
+
 
 ## 📌 Insights & Visuals
 The Power BI dashboard provides key insights, including:
