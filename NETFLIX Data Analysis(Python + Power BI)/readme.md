@@ -40,7 +40,23 @@ The datasets that are required i.e. the original dataset and the cleaned dataset
 2. Explore the interactive dashboard.
 
 #### DASHBOARD CONTENTS:
-![Power BI Dashboard](NETFLIX Data Analysis(Python + Power BI)/Dashboard Screenshots/homepage.png)
+HOME PAGE :
+![image](https://github.com/user-attachments/assets/73509d09-5fbd-4bcf-befb-8013270d4805)
+In the home page you could see the overview of the Netflix data that we have analysed. We also have slicers and interactive buttons where we can navigate to different pages and filters to show more on the TV SHOWS and MOVIES.
+
+Here are the slicers:
+![image](https://github.com/user-attachments/assets/5ad26099-1981-4ce7-9a32-8d84c1efa3ab)  ![image](https://github.com/user-attachments/assets/11367403-85a8-422e-a8b1-a79dc45e5d77)  ![image](https://github.com/user-attachments/assets/a05a8364-5ed6-4a70-a7dd-6fe3a6724565)  ![image](https://github.com/user-attachments/assets/9979ec98-ae11-4709-9a02-1c54a6faf914)
+
+TV SHOWS Dashboard:
+![image](https://github.com/user-attachments/assets/680fdd21-9a8c-499e-8efd-b7363461d301)
+
+MOVIES Dashboard:
+![image](https://github.com/user-attachments/assets/69d23104-a5d2-4116-a36d-fe17f2d7b1e7)
+
+
+
+
+
 
 
 ## 📌 Insights & Visuals
