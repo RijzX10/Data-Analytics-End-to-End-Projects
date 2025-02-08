@@ -52,7 +52,7 @@ Hello, I am **Satyamshree Moharana**, a data analyst with a strong foundation in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Analytics-End-to-End-Projects.git
+   git clone https://github.com/RijzX10/Data-Analytics-End-to-End-Projects.git
 
 
 ---
@@ -61,5 +61,5 @@ Hello, I am **Satyamshree Moharana**, a data analyst with a strong foundation in
 Feel free to connect with me:
 
 - **Email**: [satyamshreemoharana.76@gmail.com](Gmail)
-- **LinkedIn**: [linkedin.com/in/satyamshree-moharana](LinkedIn)
+- **LinkedIn**: [https://www.linkedin.com/in/satyamshree-moharana-7300791a0/](LinkedIn)
 - **GitHub**: [github.com/RijzX10](GitHub)
