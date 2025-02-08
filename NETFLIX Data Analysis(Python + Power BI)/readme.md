@@ -32,7 +32,7 @@ The datasets that are required i.e. the original dataset and the cleaned dataset
    ```bash
    pip install pandas numpy
    ```
-2. Open and run `OTT Project Python code.ipynb` in Jupyter Notebook.
+2. Open and run `OTT Project Python code.ipynb` in Jupyter Notebook
 
 
 ### 2️⃣ Power BI Dashboard
