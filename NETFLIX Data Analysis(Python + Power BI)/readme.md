@@ -1,4 +1,4 @@
-# OTT Data Analysis & Dashboard
+# NETFLIX Data Analysis(Python + Power BI)
 
 ## 📌 Project Overview
 This project analyzes **OTT (Over-the-Top) streaming platform data**, specifically from Netflix, using **Python for data cleaning & analysis** and **Power BI for data visualization**. 
@@ -40,7 +40,7 @@ The datasets that are required i.e. the original dataset and the cleaned dataset
 2. Explore the interactive dashboard.
 
 #### DASHBOARD CONTENTS:
-![Power BI Dashboard](Dashboard Screenshots/homepage.png)
+![Power BI Dashboard](NETFLIX Data Analysis(Python + Power BI)/Dashboard Screenshots/homepage.png)
 
 
 ## 📌 Insights & Visuals
